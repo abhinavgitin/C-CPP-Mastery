@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     printf("Hello world \n");
-    int a = 5;
+    int a = 56;
     int b = 10;
     int sum = a + b;
     printf("Sum of %d and %d is %d\n", a, b, sum);
