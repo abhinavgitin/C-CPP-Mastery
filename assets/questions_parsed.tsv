@@ -1,0 +1,103 @@
+question_no	question_text
+1	Create following directory hierarchy using Linux shell commands
+2	Write programs to display message in following manner using \t and \n if applicable. a. HelloWorld b. Hello World c. Hello World
+3	Write a program to demonstrate method for declaring and initializing variables in C
+4	Write a program in C to demonstrate working of printf( ) and scanf( ) in
+5	Write an algorithm to find sum and average of five numbers
+6	Write an algorithm to find the largest among two different numbers entered by user
+7	Draw a flowchart to find sum and average of five numbers
+8	Write an algorithm to check if a given number is odd or even. Draw a flowchart to demonstrate the same
+9	Write a program to demonstrate the use of float, char, double & unsigned int
+10	Write a program to demonstrate the use of sizeof( ) , const, #define
+11	Write a program in C to demonstrate the use of basic arithmetic operators +, -, *, /,%. Write an algorithm and draw the flowchart for the same
+12	Write a program to compute Simple Interest. Write an algorithm & draw the flowchart for the same
+13	Write a program to compute Compound Interest. Write an algorithm & draw the flowchart for the same. HINT: Use float or double data type
+14	Write a program to swap two variables using a third variable. Write an algorithm & draw the flowchart for the same
+15	Write a program to swap two variables without using a third variable. Write an algorithm & draw the flowchart for the same
+16	Write a program in C to convert temperature value from Celsius to Fahrenheit and vice versa
+17	Write a program in C to take time value in second’s format as user input and display its equivalent in the following format. hours: minutes :seconds Example: Input: 3666 Output : 1hr : 1min : 6sec
+18	Write a program in C to calculate and display the Net Salary (NS) of an employee. The Dearness Allowance (DA) is 40% of Basic Salary (BS), House Rent Allowance (HRA) is 20% of basic. Tax deduction is 10 % of gross salary. Calculate the net salary using the formula give below. Gross Salary (GS) = DA + HRA + BS Net Salary = GS – Tax amount
+19	Write a program in C to find the greatest among three numbers using ternary operator. Write an algorithm & draw the flowchart for the same
+20	Write a program in C to check whether an alphabet is vowel or consonant using ternary operator. Write an algorithm & draw the flowchart for the same
+21	Write a program in C to find the greatest among three numbers using if-else construct
+22	Write a program in C to check whether an alphabet is vowel or consonant using if-else construct
+23	Write a program in C to find the roots of a quadratic equation using if-else construct
+24	Write a program in C to read marks for physics, chemistry and biology, calculate the average marks in science subject and display the grade in science using the table given below (using switch- case)
+25	Write a program in C to design a basic calculator with addition, subtraction,multiplication, power and division facility. Implement using switch case
+26	Write a program in C to read marks for physics, chemistry and biology, calculate the average marks in science subject and display the grade in science using the table given below using else-if ladder
+27	Write a program in C to design a basic calculator with addition, subtraction, multiplication, power and division facility. Implement using else-if ladder
+28	Write a program in C to calculate the sum of N natural numbers. 1+2+3+…….+N
+29	Write a program in C to calculate the sum of series given below
+30	Write a program in C to calculate the sum of series given below. 11+22+33.....+NN
+31	Write a program in C to find the sum of digits in a number
+32	Write a program in C to find the reverse of a number and check whether the number is palindrome or not
+33	Write a program in C to convert decimal number to its binary equivalent
+34	Write a program in C to display following patterns using loop. * ** *** **** 35 Write a program in C to display given pattern using loop. Q36 Write a program in C to display given pattern using loop. Q37 Write a program in C to display given pattern using loop. Q38 Write a program in C to display given pattern using loop
+39	Write a program in C to count number of digits in a number using loop
+40	Write a program in C to count number of students who have scored Grade S, A, B, C, D,E & F
+41	Write a program in C to condense a number into single digit. Example: Input : 12345 4+5+6+7+8 +9 = 39 3 + 9 = 12 1+ 2 = 3 Output = 3
+42	Write a program in C to find factorial of a number using loop
+43	Write a program in C to find Fibonacci series till N terms
+44	Write a program in C to find the sum and average of elements in 1D float array
+45	Write a program in C to find the smallest and largest number in 1D double
+46	Write a program in C to reverse elements of 1D array and store in another array
+47	Write a program in C to demonstrate Linear search in 1D array
+48	Write a program in C to search an element in 1D array using Binary search technique
+49	Write a program in C to sort all integer elements of 1D array using Bubble Sort technique
+50	Write a program in C to reverse elements of an array and store it in same array
+51	Write program in C to display all the odd elements in 1D integer array
+52	Write a program in C to display all the elements present in even location in 1D array
+53	Write a program in C to find the sum of all odd elements in 1D array
+54	Write a program in C to count number of positive, negative and zero elements in 1D array
+55	Write a program in C to display all the prime numbers present in 1D array
+56	Demonstrate the use of puts( ), putchar( ), gets( ), getchar( )
+57	Write a menu driven program in C to perform following basic operations on a string without using built-in function available under <string.h>
+58	Write a menu driven program in C to perform following basic operations on a string using built-in function available under <string.h>
+59	Write a program to check whether a string is a palindrome or not
+60	Write a program in C to compare two strings without using <string.h> functions
+61	Write a program in C to check if a substring is present in a string without using <string.h> functions
+62	Write a program in C to find length of a string using function available in <string.h>
+63	Write a program in C to reverse a string& check if it is a palindrome using function available in <string.h>
+64	Write a program in C to copy string from one memory to another with or without using function available in <string.h>
+65	Write a program in C to find sum of elements of two 2D array. The sum must be stored in a new 2D array
+66	Write a program in C to find difference of elements of two 2D array. The difference must be stored in a new 2D array
+67	Write a program in C to find product of elements of two 2D array. The product must be stored in a new 2D array
+68	Write a program in C to transpose a 2D array and display it
+69	Write a program in C to display the elements of left diagonal in a 2D
+70	Write a program in C to find maximum & minimum element in a 2D array
+71	Write a program in C to display elements of 2D array in following format:- a. Row major b. Column major
+72	Write a program in C to display sum of all the right diagonal elements of a 2D array
+73	Write a program in C to replace all the left diagonal elements with zero
+74	Write a program in C to display all the elements in the triangle above the left diagonal
+75	Write a program in C to display all the elements in the triangle below the left diagonal
+76	Write a program in C to replace all the elements in even rows with zero
+77	Write a program in C to display all the odd elements present in a 2Darray
+78	Write a program in C to count all the even elements present in a 2D array
+79	Write a program in C to add two numbers using a function
+80	Write a program in C to simulate a digital calculator using parameterized function for every operation & along with return values
+81	Write a program in C to display the Fibonacci series upto nth terms using parameterized function
+82	Write a program in C to find factorial of a number using recursion
+83	Write a program in C to create a function named c_power( ) with parameters base and exponent to calculate base raised to the power of exponenet.Do not use pow( ) function
+84	Write a program in C to create a parameterized function name c_prime( ) to find all the prime numbers between a given range
+85	Write a program in C to create a parameterized function to convert decimal to binary. The binary equivalent must be displayed from main( )
+86	Write a program in C to create a parameterized recursive function to find sum on N natural numbers
+87	Write a program in C to reverse a number using function recursion
+88	Write a program in C to create a parameterized function and check if a given number is Armstrong number
+89	Find sum of elements in an array using user defined functions by passing array in a function
+90	Write a program in C to swap two numbers using call by reference
+91	Write a program in C to perform bubble sort of elements in a 1D array using pointers
+92	Write a program in C to search element in 1D array using linear searching techniques. Implement all the operations on the array using pointer
+93	Write a program in C to reverse a string in 1D array using pointers
+94	Write a program in C to Display elements of 2D array using pointers
+95	Write a program in C to calculate sum & average of two numbers using pointers
+96	Write a program in C to count number of vowels and consonants in a string using pointers
+97	Write a program in C to read double elements in C and display elements along with their index and address using pointers and array
+98	Write a program in C to find area of a circle using pointers
+99	Write a program in C to find lowest common multiple in C using pointers and function
+100	Write a program in C to swap all the elements of two 1d array and display them using functions and pointers
+101	Write a program in C to create a structure named MOVIE to store following details of one movie and display it:-  Movie title  Movie producer  Budget  Duration of movie in hours
+102	Write a program in C to create a structure named MOVIE to store following movie details and display it. The structure must be able to store movie details for 100 movies.  Movie title  Movie producer  Budget  Duration of movie in hours
+103	Write a program in C to create a structure named LAPTOP_DETAILS to store following configuration details of a laptop.  Brand  Model  RAM size  Hard disk size  Color  Screen size Create a function accept( ) to store details for fifty laptops in the structure. Create another function display( ) to display the laptop configuration details for all the laptops in a tabular format
+104	Write a program in C to open a file named my_c_file and store a string “SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY”
+105	Reopen the file my_C_file, read & display its content
+106	Write a program in C to create a file named “student_details”, store name and registration number of ten students. Reopen the file and display the details in a tabular format
