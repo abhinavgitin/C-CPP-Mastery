@@ -19,7 +19,7 @@ int main()
     for (int i = 0; i < noOfStudents; i++)
     {
         printf("Enter the name of the %d student : ", i+1);
-        scanf(" %5[^\n]", s1[i].name); // we limit the length of the name and so prevent the overflow 
+        scanf(" %999[^\n]", s1[i].name); // we limit the length of the name and so prevent the overflow 
         // reads max 99 chars (leaves 1 for \0)
         while(getchar() != '\n'); // when we have the limit less then the name then 
         /* what happens is the remaning letters after the limit range of the name gets into the next input which is being read

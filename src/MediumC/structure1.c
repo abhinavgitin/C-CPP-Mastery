@@ -10,14 +10,6 @@ struct student {
 int main() {
     struct student s1;
 
-
-    struct student2 {
-        int roll;
-    } s2; // we can also do this 
-    s2.roll = 99;
-    printf("%d\n",s2.roll);
-    // meaning that to access the same also we to make the s2 or by struct student2 s2;
-
     s1.age = 90;
     strcpy(s1.name,"Abhinav");
     s1.rollNo = 8;
