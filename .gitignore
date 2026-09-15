@@ -5,3 +5,9 @@ bin/*.exe
 .venv/
 __pycache__/
 *.pyc
+
+# Cpp Problems Solved
+src/cppLab/Cpp Problems Solved
+
+#Style
+assets/CODING_STYLE.md
